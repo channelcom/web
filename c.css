@@ -4,6 +4,7 @@ body{font-family:"Yu Gothic",Meiryo;}
 .p{margin:20px;}
 .c{text-align:center;}
 .d{text-align:right;}
+a{color:#01bdde;}a:hover{color:#004b5b;}
 h1{text-align:center;color:#004b5b;}
 h2{color:#01859c;}
 h3{color:#01ccf8;}
