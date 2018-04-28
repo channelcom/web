@@ -1,4 +1,5 @@
 body{font-family:"Yu Gothic",Meiryo;}
+.o{width:100%;max-width:720px;}
 .r{border:1px #efefef solid;border-radius:4px;}
 .p{margin:20px;}
 .c{text-align:center;}
@@ -6,3 +7,4 @@ body{font-family:"Yu Gothic",Meiryo;}
 h1{text-align:center;color:#004b5b;}
 h2{color:#01c0a0;}
 h3{color:#01ccf8;}
+.f{position:fixed;bottom:0;width:100%;padding:10px;}
