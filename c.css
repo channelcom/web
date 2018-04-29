@@ -1,7 +1,7 @@
 body{font-family:"Yu Gothic",Meiryo;}
 .o{margin:0 auto;width:100%;padding:15px;max-width:720px;}
 .r{border:1px #efefef solid;border-radius:4px;}
-.p{margin:20px;}
+p,.p{margin:20px;line-height:130%;}
 .c{text-align:center;}
 .d{text-align:right;}
 a{color:#01bdde;text-decoration:none;}a:hover{color:#004b5b;}
