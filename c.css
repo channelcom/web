@@ -1,5 +1,6 @@
 body{font-family:"Yu Gothic",Meiryo;}
 .o{margin:0 auto;width:100%;max-width:720px;}
+#home .o{max-width:1920px;}
 .r{border:1px #efefef solid;border-radius:4px;}
 p,.p{margin:20px;line-height:150%;}
 .c{text-align:center;}
