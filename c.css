@@ -18,3 +18,21 @@ li{padding:5px 0;}
 .blogroll-ad-text,.blogroll-ad-default,.blogroll-ad-img{position:fixed;top:10000px;height:0;}
 .f{position:fixed;bottom:0px;right:0px;padding:10px;}
 .f a{color:#004b5b;}
+/* search */
+.tsf {background: none;}
+#tsf {width: 833px;}
+.jhp > #tsf {max-width: none;}
+.big form#tsf, form#tsf {width: auto;max-width: 784px;overflow: hidden;}
+.hp #tsf {margin: 0 auto;width: 833px;}
+.big #tsf, .hp .big #tsf {width: 1139px;}
+.hp #tsf {margin: 0 auto;width: 833px;}
+.big #tsf, .hp .big #tsf {width: 1139px;}
+.big#searchform > #tsf {max-width: 784px;}
+.big.jhp#searchform > #tsf {max-width: none;}
+#searchform {width: 100%;}
+div#searchform {min-width: 980px;z-index: 103;}
+.hp #searchform {position: absolute;top: 311px;}
+div.jhp#searchform {margin-top: 0px;}
+.ctr-p {margin: 0 auto;min-width: 980px;}
+#viewport {min-height: 100%;position: relative;width: 100%;}
+div#viewport {position: absolute;top: 0px;width: 100%;}
