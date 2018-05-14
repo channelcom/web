@@ -9,6 +9,6 @@ h1{text-align:center;color:#004b5b;}
 h2{color:#01859c;}
 h3{color:#01ccf8;}
 li{padding:5px 0;}
-.blogroll-ad-text,.blogroll-ad-default{position:fixed;top:-10000;height:0;}
+.blogroll-ad-text,.blogroll-ad-default{position:fixed;top:-10000px;height:0;}
 .f{position:fixed;bottom:0px;right:0px;padding:10px;}
 .f a{color:#004b5b;}
