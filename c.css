@@ -20,7 +20,7 @@ li{padding:5px 0;}
 .f a{color:#004b5b;}
 @media screen and (max-width:720px){.w{display:block;}}
 /* search */-
-#viewport,.sfibbbc,#sfdiv{width:100%!important;max-width:584px;}
+#viewport,.sfibbbc,#sfdiv{width:100%!important;max-width:584px!important;}
 .sbibps{width:100%!important;max-width:564px;}
 #tsf{width:100%!important;}
 .tsf-p{padding:0!important;}
