@@ -1,1 +1,2 @@
 # web
+https://ちゃんねる.com/
