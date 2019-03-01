@@ -5,9 +5,9 @@ body{font-family:"Yu Gothic",Meiryo;background-color:#0f0f0f;color:#ffffff;}
 p,.p{margin:20px;line-height:150%;}
 .c{text-align:center;}
 .d{text-align:right;}
-a{color:#01bdde;text-decoration:none;}a:hover{color:#004b5b;}
+a{color:#01bdde;text-decoration:none;}a:visited{opacity:.6;}a:hover{color:#004b5b;}
 h1{text-align:center;color:#efefef/*#004b5b*/;}
-h2{color:#76ebff/*#01859c*/;}
+h2,h2 a{color:#76ebff/*#01859c*/;}
 h3{color:#01ccf8;}
 li{padding:5px 0;}
 .adsbygoogle{width:100%;text-align:center;margin:0 auto;}
