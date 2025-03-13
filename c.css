@@ -7,6 +7,7 @@ p,.p{margin:20px;line-height:150%;}
 .d{text-align:right;}
 a{color:#aaf2ff;text-decoration:none;}a:visited{color:#00add2;}a:hover{color:#01bdde;}
 h1{text-align:center;color:#efefef/*#004b5b*/;}
+h1 a{color:#ffffff!important;text-decoration:none!important}
 h2,h2 a{color:#76ebff/*#01859c*/;}
 h3{color:#01ccf8;}
 li{padding:5px 0;}
